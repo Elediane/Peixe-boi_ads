@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Carta para minha mãe</title>
+  <style>
+    body {
+      font-family: "Times New Roman", serif;
+      background-color: #fff8f0;
+      margin: 40px;
+    }
+    .carta {
+      border: 2px solid #d4a373;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+    }
+    h1 {
+      text-align: center;
+      color: #8b4513;
+    }
+    p {
+      text-align: justify;
+      line-height: 1.6;
+    }
+    .assinatura {
+      margin-top: 30px;
+      text-align: right;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div class="carta">
+    <h1>Carta para minha mãe</h1>
+    <p>
+      Querida mãe,
+    </p>
+    <p>
+      Hoje escrevo esta carta para agradecer por todo o amor, carinho e dedicação
+      que sempre teve comigo. Você é minha inspiração e meu porto seguro.
+    </p>
+    <p>
+      Espero que esta mensagem traga um sorriso ao seu rosto, assim como você
+      sempre trouxe alegria para minha vida.
+    </p>
+    <p class="assinatura">
+      Com amor,<br>
+      Elediane
+    </p>
+  </div>
+</body>
+</html>
